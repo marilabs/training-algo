@@ -4,7 +4,36 @@ My take on some algorithms in order to get better at CS
 ## First source of exercises: 
 *COMPETITIVE PROGRAMMING in PYTHON 128 Algorithms to Develop Your Coding Skills*, by Christoph Dürr, Jill-Jenn Vie
 
-[✅](https://github.com/marilabs/training-algo/blob/main/Competitive%20programming%20in%20Python/Frosting%20on%20the%20Cake) ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎
+**Introduction**: [✅](https://github.com/marilabs/training-algo/blob/main/Competitive%20programming%20in%20Python/Frosting%20on%20the%20Cake) 
+
+**Character strings**: ❎ ❎ ❎ ❎ ❎ ❎ ❎
+
+**Sequences**: ❎ ❎ ❎ ❎ ❎
+
+**Arrays**: ❎ ❎ ❎ ❎ ❎ ❎ ❎
+
+**Intervals**: ❎ ❎ ❎
+
+**Graphs**: ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎
+
+**Cycles in graphs**: ❎ ❎ ❎ ❎ ❎ ❎
+
+**Shortest paths**: ❎ ❎ ❎ ❎ ❎ ❎ ❎ 
+
+**Matchings and flows**: ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ 
+
+**Trees**: ❎ ❎ ❎ ❎ 
+
+**Sets**: ❎ ❎ ❎ ❎ 
+
+**Points and polygons**: ❎ ❎ ❎ ❎ 
+
+**Rectangles**: ❎ ❎ ❎ ❎ ❎ ❎ 
+
+**Number and matrices**: ❎ ❎ ❎ ❎ ❎ ❎ ❎ ❎ 
+
+**Exhaustive search**: ❎ ❎ ❎ ❎ ❎ ❎ 
+
 
 ## Possible new sources?
 
