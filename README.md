@@ -6,7 +6,7 @@ My take on some algorithms in order to get better at CS
 
 **Introduction**: [✅](https://github.com/marilabs/training-algo/blob/main/Competitive%20programming%20in%20Python/Frosting%20on%20the%20Cake) 
 
-**Character strings**: [❎](https://github.com/marilabs/training-algo/blob/main/Competitive%20programming%20in%20Python/Frosting%20on%20the%20Cake) ❎ ❎ ❎ ❎ ❎ ❎
+**Character strings**: [✅](https://github.com/marilabs/training-algo/blob/main/Competitive%20programming%20in%20Python/Frosting%20on%20the%20Cake) ❎ ❎ ❎ ❎ ❎ ❎
 
 **Sequences**: ❎ ❎ ❎ ❎ ❎
 
