@@ -34,6 +34,10 @@ My take on some algorithms in order to get better at CS
 
 **Exhaustive search**: ❎ ❎ ❎ ❎ ❎ ❎ 
 
+---
+
+### Implementation of some algorithms/data structures: TODO
+
 
 ## Possible new sources?
 
