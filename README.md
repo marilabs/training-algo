@@ -2,7 +2,7 @@
 My take on some algorithms in order to get better at CS 
 
 ## First source of exercises: 
-*COMPETITIVE PROGRAMMING in PYTHON 128 Algorithms to Develop Your Coding Skills*, by Christoph Dürr, Jill-Jenn Vie
+*COMPETITIVE PROGRAMMING in PYTHON 128 Algorithms to Develop Your Coding Skills*, by Christoph Dürr, Jill-Jênn Vie
 
 **Introduction**: [✅](https://github.com/marilabs/training-algo/blob/main/Competitive%20programming%20in%20Python/Frosting%20on%20the%20Cake) [✅](https://github.com/marilabs/training-algo/blob/main/Competitive%20programming%20in%20Python/Encryption) ❎ ❎
 
