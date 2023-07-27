@@ -43,5 +43,6 @@ My take on some algorithms in order to get better at CS
 
 * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Project Euler](https://projecteuler.net)
+* [Info-LLG](https://info-llg.fr)
 
 *Please suggest other sources if you know any :)*
